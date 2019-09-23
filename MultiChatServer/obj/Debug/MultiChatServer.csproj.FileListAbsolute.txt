@@ -1,0 +1,9 @@
+C:\Users\zv961\source\repos\MultiChat\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\zv961\source\repos\MultiChat\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\zv961\source\repos\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.csprojAssemblyReference.cache
+C:\Users\zv961\source\repos\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.Server.resources
+C:\Users\zv961\source\repos\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\zv961\source\repos\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.csproj.GenerateResource.cache
+C:\Users\zv961\source\repos\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.csproj.CoreCompileInputs.cache
+C:\Users\zv961\source\repos\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\zv961\source\repos\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.pdb

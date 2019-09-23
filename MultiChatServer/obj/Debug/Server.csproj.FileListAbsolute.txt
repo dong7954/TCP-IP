@@ -1,0 +1,108 @@
+C:\Users\zv961\source\repos\MultiChat\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\zv961\source\repos\MultiChat\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\zv961\source\repos\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.Server.resources
+C:\Users\zv961\source\repos\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\zv961\source\repos\MultiChat\MultiChatServer\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\zv961\source\repos\MultiChat\MultiChatServer\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\zv961\source\repos\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\zv961\source\repos\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.pdb
+C:\Users\zv961\source\repos\MultiChat\MultiChatServer\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\의창\Downloads\MultiChat\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\의창\Downloads\MultiChat\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\의창\Downloads\MultiChat\MultiChatServer\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\의창\Downloads\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.Server.resources
+C:\Users\의창\Downloads\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\의창\Downloads\MultiChat\MultiChatServer\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\의창\Downloads\MultiChat\MultiChatServer\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\의창\Downloads\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\의창\Downloads\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.pdb
+D:\Coding\C\_TCP_MultiSC\0528 MultiChat 코드 해석 안한거\MultiChatServer\bin\Debug\MultiChatServer.exe
+D:\Coding\C\_TCP_MultiSC\0528 MultiChat 코드 해석 안한거\MultiChatServer\bin\Debug\MultiChatServer.pdb
+D:\Coding\C\_TCP_MultiSC\0528 MultiChat 코드 해석 안한거\MultiChatServer\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Coding\C\_TCP_MultiSC\0528 MultiChat 코드 해석 안한거\MultiChatServer\obj\Debug\MultiChatServer.Server.resources
+D:\Coding\C\_TCP_MultiSC\0528 MultiChat 코드 해석 안한거\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+D:\Coding\C\_TCP_MultiSC\0528 MultiChat 코드 해석 안한거\MultiChatServer\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Coding\C\_TCP_MultiSC\0528 MultiChat 코드 해석 안한거\MultiChatServer\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Coding\C\_TCP_MultiSC\0528 MultiChat 코드 해석 안한거\MultiChatServer\obj\Debug\MultiChatServer.exe
+D:\Coding\C\_TCP_MultiSC\0528 MultiChat 코드 해석 안한거\MultiChatServer\obj\Debug\MultiChatServer.pdb
+C:\Users\zv961\Documents\카카오톡 받은 파일\0531 MultiChat\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\zv961\Documents\카카오톡 받은 파일\0531 MultiChat\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\zv961\Documents\카카오톡 받은 파일\0531 MultiChat\MultiChatServer\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\zv961\Documents\카카오톡 받은 파일\0531 MultiChat\MultiChatServer\obj\Debug\MultiChatServer.Server.resources
+C:\Users\zv961\Documents\카카오톡 받은 파일\0531 MultiChat\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\zv961\Documents\카카오톡 받은 파일\0531 MultiChat\MultiChatServer\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\zv961\Documents\카카오톡 받은 파일\0531 MultiChat\MultiChatServer\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\zv961\Documents\카카오톡 받은 파일\0531 MultiChat\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\zv961\Documents\카카오톡 받은 파일\0531 MultiChat\MultiChatServer\obj\Debug\MultiChatServer.pdb
+D:\Coding\C\_TCP_MultiSC\MultiChat\MultiChatServer\bin\Debug\MultiChatServer.exe
+D:\Coding\C\_TCP_MultiSC\MultiChat\MultiChatServer\bin\Debug\MultiChatServer.pdb
+D:\Coding\C\_TCP_MultiSC\MultiChat\MultiChatServer\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Coding\C\_TCP_MultiSC\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.Server.resources
+D:\Coding\C\_TCP_MultiSC\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+D:\Coding\C\_TCP_MultiSC\MultiChat\MultiChatServer\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Coding\C\_TCP_MultiSC\MultiChat\MultiChatServer\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Coding\C\_TCP_MultiSC\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.exe
+D:\Coding\C\_TCP_MultiSC\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.pdb
+C:\Users\zv961\Documents\카카오톡 받은 파일\0607 MultiChat 개인채팅 완성 및 안정화중\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\zv961\Documents\카카오톡 받은 파일\0607 MultiChat 개인채팅 완성 및 안정화중\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\zv961\Documents\카카오톡 받은 파일\0607 MultiChat 개인채팅 완성 및 안정화중\MultiChatServer\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\zv961\Documents\카카오톡 받은 파일\0607 MultiChat 개인채팅 완성 및 안정화중\MultiChatServer\obj\Debug\MultiChatServer.Server.resources
+C:\Users\zv961\Documents\카카오톡 받은 파일\0607 MultiChat 개인채팅 완성 및 안정화중\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\zv961\Documents\카카오톡 받은 파일\0607 MultiChat 개인채팅 완성 및 안정화중\MultiChatServer\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\zv961\Documents\카카오톡 받은 파일\0607 MultiChat 개인채팅 완성 및 안정화중\MultiChatServer\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\zv961\Documents\카카오톡 받은 파일\0607 MultiChat 개인채팅 완성 및 안정화중\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\zv961\Documents\카카오톡 받은 파일\0607 MultiChat 개인채팅 완성 및 안정화중\MultiChatServer\obj\Debug\MultiChatServer.pdb
+C:\Users\zv961\Documents\카카오톡 받은 파일\MultiChat\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\zv961\Documents\카카오톡 받은 파일\MultiChat\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\zv961\Documents\카카오톡 받은 파일\MultiChat\MultiChatServer\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\zv961\Documents\카카오톡 받은 파일\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.Server.resources
+C:\Users\zv961\Documents\카카오톡 받은 파일\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\zv961\Documents\카카오톡 받은 파일\MultiChat\MultiChatServer\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\zv961\Documents\카카오톡 받은 파일\MultiChat\MultiChatServer\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\zv961\Documents\카카오톡 받은 파일\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\zv961\Documents\카카오톡 받은 파일\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.pdb
+D:\Coding\C\_TCP_MultiSC\현재 진행 중\MultiChat\MultiChatServer\bin\Debug\MultiChatServer.exe
+D:\Coding\C\_TCP_MultiSC\현재 진행 중\MultiChat\MultiChatServer\bin\Debug\MultiChatServer.pdb
+D:\Coding\C\_TCP_MultiSC\현재 진행 중\MultiChat\MultiChatServer\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Coding\C\_TCP_MultiSC\현재 진행 중\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.Server.resources
+D:\Coding\C\_TCP_MultiSC\현재 진행 중\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+D:\Coding\C\_TCP_MultiSC\현재 진행 중\MultiChat\MultiChatServer\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Coding\C\_TCP_MultiSC\현재 진행 중\MultiChat\MultiChatServer\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Coding\C\_TCP_MultiSC\현재 진행 중\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.exe
+D:\Coding\C\_TCP_MultiSC\현재 진행 중\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.pdb
+C:\Users\zv961\Documents\Projects\TCPIP MultiChat\MultiChat\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\zv961\Documents\Projects\TCPIP MultiChat\MultiChat\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\zv961\Documents\Projects\TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\zv961\Documents\Projects\TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.Server.resources
+C:\Users\zv961\Documents\Projects\TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\zv961\Documents\Projects\TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\zv961\Documents\Projects\TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\zv961\Documents\Projects\TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\zv961\Documents\Projects\TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.pdb
+C:\Users\zv961\Documents\Projects\C# TCPIP MultiChat\MultiChat\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\zv961\Documents\Projects\C# TCPIP MultiChat\MultiChat\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\zv961\Documents\Projects\C# TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\zv961\Documents\Projects\C# TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.Server.resources
+C:\Users\zv961\Documents\Projects\C# TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\zv961\Documents\Projects\C# TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\zv961\Documents\Projects\C# TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\zv961\Documents\Projects\C# TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\zv961\Documents\Projects\C# TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.pdb
+D:\Projects\C# TCPIP MultiChat\MultiChat\MultiChatServer\bin\Debug\MultiChatServer.exe
+D:\Projects\C# TCPIP MultiChat\MultiChat\MultiChatServer\bin\Debug\MultiChatServer.pdb
+D:\Projects\C# TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Projects\C# TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.Server.resources
+D:\Projects\C# TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+D:\Projects\C# TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Projects\C# TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Projects\C# TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.exe
+D:\Projects\C# TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.pdb
+E:\Projects\C# TCPIP MultiChat\MultiChat\MultiChatServer\bin\Debug\MultiChatServer.exe
+E:\Projects\C# TCPIP MultiChat\MultiChat\MultiChatServer\bin\Debug\MultiChatServer.pdb
+E:\Projects\C# TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\Server.csprojAssemblyReference.cache
+E:\Projects\C# TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.Server.resources
+E:\Projects\C# TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+E:\Projects\C# TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\Server.csproj.GenerateResource.cache
+E:\Projects\C# TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Projects\C# TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.exe
+E:\Projects\C# TCPIP MultiChat\MultiChat\MultiChatServer\obj\Debug\MultiChatServer.pdb
